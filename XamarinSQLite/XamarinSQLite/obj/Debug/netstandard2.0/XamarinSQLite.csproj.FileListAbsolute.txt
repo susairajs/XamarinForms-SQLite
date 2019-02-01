@@ -1,0 +1,12 @@
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.deps.json
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.dll
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.csprojAssemblyReference.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.csproj.CoreCompileInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.AssemblyInfoInputs.cache
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.AssemblyInfo.cs
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\bin\Debug\netstandard2.0\XamarinSQLite.pdb
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.dll
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite\obj\Debug\netstandard2.0\XamarinSQLite.pdb

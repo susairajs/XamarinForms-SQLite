@@ -1,0 +1,1 @@
+C:\Users\susai\Desktop\VisualStudio Source\XamarinSQLite\XamarinSQLite\XamarinSQLite.UWP\XamarinSQLite.UWP.csproj;x86
